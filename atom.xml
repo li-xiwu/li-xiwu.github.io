@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-xiwu.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-07T11:44:53.669Z</updated>
+    <updated>2022-04-07T11:45:37.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-xiwu.github.io"/>
     <link rel="self" href="https://li-xiwu.github.io/atom.xml"/>
@@ -10,20 +10,4 @@
     <logo>https://li-xiwu.github.io/images/avatar.png</logo>
     <icon>https://li-xiwu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[久违的更新]]></title>
-        <id>https://li-xiwu.github.io/post/jiu-wei-de-geng-xin/</id>
-        <link href="https://li-xiwu.github.io/post/jiu-wei-de-geng-xin/">
-        </link>
-        <updated>2022-04-07T11:34:02.000Z</updated>
-        <content type="html"><![CDATA[<p>这次更新的契机是πtrick的blog<br>
-没想到他一直在更<br>
-我这里都荒废了（笑<br>
-正好现在因为疫情没法出去<br>
-有空就更一更吧<br>
-我想说的话其实还不少的<br>
-就酱<br>
-我们下次见</p>
-]]></content>
-    </entry>
 </feed>
