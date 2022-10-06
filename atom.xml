@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://li-xiwu-github-io.pages.dev</id>
+    <title>lixiwu&apos;s blog</title>
+    <updated>2022-10-06T16:29:46.041Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://li-xiwu-github-io.pages.dev"/>
+    <link rel="self" href="https://li-xiwu-github-io.pages.dev/atom.xml"/>
+    <subtitle>互联网中一个普通高中生的小小园地</subtitle>
+    <logo>https://li-xiwu-github-io.pages.dev/images/avatar.png</logo>
+    <icon>https://li-xiwu-github-io.pages.dev/favicon.ico</icon>
+    <rights>All rights reserved 2022, lixiwu&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://li-xiwu-github-io.pages.dev/post/test/</id>
+        <link href="https://li-xiwu-github-io.pages.dev/post/test/">
+        </link>
+        <updated>2021-11-06T13:23:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://li-xiwu-github-io.pages.dev/post/hello-gridea/</id>
+        <link href="https://li-xiwu-github-io.pages.dev/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
